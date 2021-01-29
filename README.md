@@ -16,17 +16,18 @@ Współrzędne są znormalizowane do zakresu [-1,1], ale nie są znormalizowane 
 wartości średnich i podzielenie przez odchylenia standardowe.
 
 33-cia wartość w każdym wierszu to identyfikator asany:
-0 - pozycja drzewa
-1 - pozycja wojownika I
-2 - pozycja psa z głową w dół
-3 - pozycja góry
-4 - pozycja wojownika II
-5 - pozycja łuku
-6 - pozycja wielbłąda
-7 - pozycja deski
-8 - pozycja krzesła
-9 - pozycja girlandy
-10 - pozycja nieznana
+
+    0 - pozycja drzewa
+    1 - pozycja wojownika I
+    2 - pozycja psa z głową w dół
+    3 - pozycja góry
+    4 - pozycja wojownika II
+    5 - pozycja łuku
+    6 - pozycja wielbłąda
+    7 - pozycja deski
+    8 - pozycja krzesła
+    9 - pozycja girlandy
+    10 - pozycja nieznana
 
 ----------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------------------------------------
@@ -48,14 +49,15 @@ Coordinates are normalized to [-1,1], but they are not normalized by subtracting
 dividing by standard deviation.
 
 The 33rd value in each row is yoga pose id:
-0 - tree pose
-1 - warrior I pose
-2 - downward dog pose
-3 - mountain pose
-4 - warrior II pose
-5 - bow pose pose
-6 - camel pose
-7 - plank pose
-8 - chair pose
-9 - garland pose
-10 - unknown pose
+
+    0 - tree pose
+    1 - warrior I pose
+    2 - downward dog pose
+    3 - mountain pose
+    4 - warrior II pose
+    5 - bow pose pose
+    6 - camel pose
+    7 - plank pose
+    8 - chair pose
+    9 - garland pose
+    10 - unknown pose

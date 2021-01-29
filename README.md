@@ -9,13 +9,13 @@ prawy_nadgarstek, tułów, lewy_bark, lewy_łokieć, lewy_nadgarstek,
 miednica, prawe_biodro, prawe_kolano, prawa_kostka, lewe_biodro,
 lewe_kolano, lewa_kostka
 
-więc każdy wiersz zawiera:
+Więc każdy wiersz zawiera:
 (x,y) czubka głowy, (x,y) górnego odcinka szyi, (x,y) prawego barku .....
 
-Współrzędne są znormalizowane do zakresu [-1,1], ale są znormalizowane przez odjęcie
+Współrzędne są znormalizowane do zakresu [-1,1], ale nie są znormalizowane przez odjęcie
 wartości średnich i podzielenie przez odchylenia standardowe.
 
-33 wartość w każdym wierszu to identyfikator asany:
+33-cia wartość w każdym wierszu to identyfikator asany:
 0 - pozycja drzewa
 1 - pozycja wojownika I
 2 - pozycja psa z głową w dół
